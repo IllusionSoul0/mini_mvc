@@ -1,3 +1,0 @@
-INSERT INTO client (nom, prenom, adresse, email, mdp) VALUES ('Diallo', 'Ismael', '33 rue QuelquePart', 'ismael.diallo@efrei.net', 'ahahhahaha'), ('Chaintreau', 'Maxime', '22 avenue JeNeSaisPas', 'maxime.chaintreau@efrei.net', 'pjaihioubid');
-INSERT INTO categorie (nom, description) VALUES ('Sport', 'Produit relatif à la pratique sportive'), ('Ecole', 'Affaire pour etude'), ('Nourriture', 'Produit alimentaire');
-INSERT INTO produit (nom, description, prix, stock, actif, id_categorie) VALUES ('Ballon de Foot', 'Ballon de foot classique', 15.99, 18, true, 1), ('Steak', 'Viande de boeuf', 10.99, 5, true, 3);
